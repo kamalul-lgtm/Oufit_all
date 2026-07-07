@@ -1,0 +1,50 @@
+[
+    {
+        "id": "001",
+        "name": "Qwertylife work jacket boxy fit cordoray gery",
+        "price": "Rp143.990",
+        "category": "Jaket",
+        "rating": "4.7",
+        "sold": "4.7k",
+        "viral": true,
+        "status": "viral",
+        "image": "images/001.png",
+        "link": "https://vt.tokopedia.com/t/ZS9Mjxo3ys1Ue-KcVML/"
+    },
+    {
+        "id": "002",
+        "name": "Kemeja Linen Premium",
+        "price": "Rp169.000",
+        "category": "Kemeja",
+        "rating": "4.8",
+        "sold": "980",
+        "viral": false,
+        "status": "Baru",
+        "image": "images/002.jpg",
+        "link": "https://vt.tokopedia.com/t/ZS9MjxkhDtVaA-fvE8m/"
+    },
+    {
+        "id": "003",
+        "name": "Celana Cargo Premium",
+        "price": "Rp199.000",
+        "category": "Celana",
+        "rating": "4.9",
+        "sold": "2.1k",
+        "viral": true,
+        "status": "Baru",
+        "image": "images/003.jpg",
+        "link": "https://vt.tokopedia.com/t/ZS9MjxR8rqErK-VigGU/"
+    },
+    {
+        "id": "004",
+        "name": "Sepatu Casual Premium",
+        "price": "Rp249.000",
+        "category": "Sepatu",
+        "rating": "4.9",
+        "sold": "1.5k",
+        "viral": true,
+        "status": "Baru",
+        "image": "images/004.jpg",
+        "link": "https://vt.tokopedia.com/t/ZS9Mj9X1FjRYQ-96yVe/"
+    }
+]
