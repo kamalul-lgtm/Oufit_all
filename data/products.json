@@ -82,5 +82,41 @@
     "status": "Baru",
     "image": "images/007.png",
     "link": "https://vt.tokopedia.com/t/ZS9MBy3GFVK1C-Hf8RJ/"
+  },
+  {
+    "id": "008",
+    "name": "Sepatu Sneakers Ori Sepatu Olahraga Casual",
+    "price": "Rp78.900",
+    "category": "Sepatu",
+    "rating": "4.6",
+    "sold": "700",
+    "viral": true,
+    "status": "viral",
+    "image": "images/008.png",
+    "link": "https://vt.tokopedia.com/t/ZS9MBGVgpsg7t-CvypY/"
+  },
+  {
+    "id": "009",
+    "name": "Sepatu Casual Cani Korea Soomin Series",
+    "price": "Rp93.000",
+    "category": "Sepatu",
+    "rating": "4.6",
+    "sold": "1.1k",
+    "viral": true,
+    "status": "viral",
+    "image": "images/009.png",
+    "link": "https://vt.tokopedia.com/t/ZS9MBt6jMPEQG-NxZ4o/"
+  },
+  {
+    "id": "010",
+    "name": "Sepatu Casual Adds Samba Wanita Dan Pria",
+    "price": "Rp279.000",
+    "category": "Sepatu",
+    "rating": "4.6",
+    "sold": "1.2k",
+    "viral": true,
+    "status": "Baru",
+    "image": "images/010.png",
+    "link": "https://vt.tokopedia.com/t/ZS9MBtaC9oMsK-L1wOa/"
   }
 ]
