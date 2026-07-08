@@ -1,50 +1,86 @@
 [
-    {
-        "id": "001",
-        "name": "Qwertylife work jacket boxy fit cordoray gery",
-        "price": "Rp143.990",
-        "category": "Jaket",
-        "rating": "4.7",
-        "sold": "4.7k",
-        "viral": true,
-        "status": "viral",
-        "image": "images/001.png",
-        "link": "https://vt.tokopedia.com/t/ZS9Mjxo3ys1Ue-KcVML/"
-    },
-    {
-        "id": "002",
-        "name": "Kemeja Linen Premium",
-        "price": "Rp169.000",
-        "category": "Kemeja",
-        "rating": "4.8",
-        "sold": "980",
-        "viral": false,
-        "status": "Baru",
-        "image": "images/002.jpg",
-        "link": "https://vt.tokopedia.com/t/ZS9MjxkhDtVaA-fvE8m/"
-    },
-    {
-        "id": "003",
-        "name": "Celana Cargo Premium",
-        "price": "Rp199.000",
-        "category": "Celana",
-        "rating": "4.9",
-        "sold": "2.1k",
-        "viral": true,
-        "status": "Baru",
-        "image": "images/003.jpg",
-        "link": "https://vt.tokopedia.com/t/ZS9MjxR8rqErK-VigGU/"
-    },
-    {
-        "id": "004",
-        "name": "Sepatu Casual Premium",
-        "price": "Rp249.000",
-        "category": "Sepatu",
-        "rating": "4.9",
-        "sold": "1.5k",
-        "viral": true,
-        "status": "Baru",
-        "image": "images/004.jpg",
-        "link": "https://vt.tokopedia.com/t/ZS9Mj9X1FjRYQ-96yVe/"
-    }
+  {
+    "id": "001",
+    "name": "Qwertylife work jacket boxy fit cordoray gery",
+    "price": "Rp143.990",
+    "category": "Jaket",
+    "rating": "4.7",
+    "sold": "4.7k",
+    "viral": true,
+    "status": "viral",
+    "image": "images/001.png",
+    "link": "https://vt.tokopedia.com/t/ZS9Mjxo3ys1Ue-KcVML/"
+  },
+  {
+    "id": "002",
+    "name": "Kemeja polos pria lengan panjang forlmal/casual",
+    "price": "Rp.59.999",
+    "category": "Kemeja",
+    "rating": "4.9",
+    "sold": "10k",
+    "viral": false,
+    "status": "Baru",
+    "image": "images/002.webp",
+    "link": "https://vt.tokopedia.com/t/ZS9MjxkhDtVaA-fvE8m/"
+  },
+  {
+    "id": "003",
+    "name": "Celana Jeans Wide Leg Wisker nyaman panjang slim santai",
+    "price": "Rp70.799",
+    "category": "Celana",
+    "rating": "4.8",
+    "sold": "24.9k",
+    "viral": true,
+    "status": "viral",
+    "image": "images/003.png",
+    "link": "https://vt.tokopedia.com/t/ZS9MjxR8rqErK-VigGU/"
+  },
+  {
+    "id": "004",
+    "name": "Sepatu Casual Premium Zirotz keepmoving",
+    "price": "Rp144.900",
+    "category": "Sepatu",
+    "rating": "4.9",
+    "sold": "3.3k",
+    "viral": true,
+    "status": "Baru",
+    "image": "images/004.png",
+    "link": "https://vt.tokopedia.com/t/ZS9Mj9X1FjRYQ-96yVe/"
+  },
+  {
+    "id": "005",
+    "name": "Zeys Tracktop Hand Jaket Parasut High Premium",
+    "price": "Rp86.277",
+    "category": "Jaket",
+    "rating": "4.7",
+    "sold": "38.9k",
+    "viral": true,
+    "status": "Baru",
+    "image": "images/005.png",
+    "link": "https://vt.tokopedia.com/t/ZS9MByyB6p1hV-qWcTz/"
+  },
+  {
+    "id": "006",
+    "name": "Jaket Tractop Iconic Vibes Unisex",
+    "price": "Rp139.000",
+    "category": "Jaket",
+    "rating": "4.3",
+    "sold": "1k",
+    "viral": false,
+    "status": "Baru",
+    "image": "images/006.png",
+    "link": "https://vt.tokopedia.com/t/ZS9MByQJtkJcY-GgILa/"
+  },
+  {
+    "id": "007",
+    "name": "Jaket Tractop Crinkle Improve",
+    "price": "Rp104.500",
+    "category": "Jaket",
+    "rating": "5.0",
+    "sold": "1.1k",
+    "viral": true,
+    "status": "Baru",
+    "image": "images/007.png",
+    "link": "https://vt.tokopedia.com/t/ZS9MBy3GFVK1C-Hf8RJ/"
+  }
 ]

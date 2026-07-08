@@ -171,9 +171,9 @@ loadProducts();
 const banner = document.getElementById("banner-slider");
 
 const banners = [
-    "images/banner1.jpg",
-    "images/banner2.jpg",
-    "images/banner3.jpg"
+    "images/banner.png",
+    "images/banner.jpg",
+    "images/banner.webp"
 ];
 
 let currentBanner = 0;
