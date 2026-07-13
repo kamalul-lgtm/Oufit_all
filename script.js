@@ -40,25 +40,24 @@ async function loadProducts() {
 // TAMPILKAN PRODUK
 // ===========================
 
-function displayProducts(data) {
+function displayProducts(data){
 
     productContainer.innerHTML = "";
 
-    if (data.length === 0) {
+    if(data.length===0){
 
-        productContainer.innerHTML = `
+        productContainer.innerHTML=`
             <h2 style="text-align:center;padding:50px;">
                 Produk tidak ditemukan.
             </h2>
-
-            `;
+        `;
 
         return;
     }
 
-    data.forEach(product => {
+    data.forEach(product=>{
 
-        productContainer.innerHTML += `
+        productContainer.innerHTML+=`
 
         <div class="card">
 
@@ -87,20 +86,18 @@ function displayProducts(data) {
                 </div>
 
                 <p class="harga">
-
                     ${product.price}
-
                 </p>
 
                 <a href="${product.link}" target="_blank">
-
-                    🛍️ Beli sekarang
-
+                    🛍️ Beli Sekarang
                 </a>
 
             </div>
 
-            `;
+        </div>
+
+        `;
 
     });
 
@@ -168,24 +165,24 @@ loadProducts();
 // BANNER SLIDER
 // ===========================
 
-const banner = document.getElementById("banner-slider");
+// const banner = document.getElementById("banner-slider");
 
-const banners = [
-    "images/banner.png",
-    "images/banner.jpg",
-    "images/banner.webp"
-];
+// const banners = [
+//     "images/banner.png",
+//     "images/banner.jpg",
+//     "images/banner.webp"
+// ];
 
-let currentBanner = 0;
+// let currentBanner = 0;
 
-setInterval(() => {
+// setInterval(() => {
 
-    currentBanner++;
+//     currentBanner++;
 
-    if (currentBanner >= banners.length) {
-        currentBanner = 0;
-    }
+//     if (currentBanner >= banners.length) {
+//         currentBanner = 0;
+//     }
 
-    banner.src = banners[currentBanner];
+//     banner.src = banners[currentBanner];
 
-}, 4000);
+// }, 4000);

@@ -122,30 +122,40 @@ body {
    KATEGORI
 =========================== */
 
-.kategori {
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-    flex-wrap: wrap;
-    padding: 20px;
+.kategori{
+    display:flex;
+    gap:15px;
+    overflow-x:auto;
+    padding:20px;
+    scroll-behavior:smooth;
 }
 
-.kategori button {
-    padding: 12px 24px;
-    border: none;
-    border-radius: 30px;
-    background: #e5e5e5;
-    cursor: pointer;
-    font-size: 16px;
-    font-weight: bold;
-    transition: .3s;
+.kategori::-webkit-scrollbar{
+    display:none;
 }
 
-.kategori button:hover,
-.kategori button.active {
-    background: #111;
-    color: white;
+.kategori button{
+    flex:none;
+    padding:14px 28px;
+    border:none;
+    border-radius:40px;
+    background:#ececec;
+    cursor:pointer;
+    font-size:16px;
+    font-weight:bold;
+    transition:.3s;
 }
+
+.kategori button:hover{
+    background:#111;
+    color:#fff;
+}
+
+.kategori button.active{
+    background:#111;
+    color:#fff;
+}
+
 
 /* ===========================
    PRODUK
